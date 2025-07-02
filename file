@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Teacher-Student Management System</title>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"/>
+  <style>
+    body { font-family: 'Segoe UI', sans-serif; }
+    header { background-color: #343a40; color: white; padding: 60px 0; }
+    section { padding: 40px 0; }
+    footer { background-color: #f8f9fa; text-align: center; padding: 20px 0; }
+  </style>
+</head>
+<body>
+
+<header class="text-center">
+  <div class="container">
+    <h1>Teacher-Student Management System</h1>
+    <p class="lead">Mini Project by Yash Jakhar (MCA | Roll No. 2324000495)</p>
+  </div>
+</header>
+
+<section id="overview" class="bg-light">
+  <div class="container">
+    <h2>Project Overview</h2>
+    <p>
+      This web-based system facilitates teacher-student communication, assignment tracking, attendance management, and tutor hiring. It aims to enhance academic management and streamline administrative tasks for educators and students.
+    </p>
+  </div>
+</section>
+
+<section id="features">
+  <div class="container">
+    <h2>Key Features</h2>
+    <ul>
+      <li>Online attendance tracking</li>
+      <li>Marks and assignments upload</li>
+      <li>Faculty portfolio updates</li>
+      <li>Student progress reports</li>
+      <li>Find and hire home tutors</li>
+      <li>Admin panel to manage users</li>
+    </ul>
+  </div>
+</section>
+
+<section id="modules" class="bg-light">
+  <div class="container">
+    <h2>System Modules</h2>
+    <ul>
+      <li><strong>Administrator:</strong> Manages all data, logins, and performance tracking.</li>
+      <li><strong>Faculty:</strong> Updates student data, uploads assignments, manages attendance.</li>
+      <li><strong>Student:</strong> Views academic progress, applies for tutors, requests leaves.</li>
+    </ul>
+  </div>
+</section>
+
+<section id="tech">
+  <div class="container">
+    <h2>Tools & Technologies Used</h2>
+    <ul>
+      <li>Frontend: HTML, CSS, JavaScript, Bootstrap</li>
+      <li>Backend: PHP, MySQL (via XAMPP)</li>
+      <li>Design Tools: Notepad++, Sublime Text</li>
+      <li>Database: MySQL Server 2018</li>
+    </ul>
+  </div>
+</section>
+
+<section id="designs" class="bg-light">
+  <div class="container">
+    <h2>Design Highlights</h2>
+    <p><strong>Data Flow Diagrams (Level 0 & 1)</strong> and <strong>Entity-Relationship Diagram (ERD)</strong> were designed to represent system structure and flow.</p>
+    <p>These design components support efficient development and maintenance of the project.</p>
+  </div>
+</section>
+
+<section id="contact">
+  <div class="container">
+    <h2>Project Info</h2>
+    <p><strong>Student Name:</strong> Yash Jakhar</p>
+    <p><strong>University:</strong> GLA University, Mathura</p>
+    <p><strong>Course:</strong> MCA (2023–2025)</p>
+    <p><strong>Submitted On:</strong> 20 Jan 2025</p>
+  </div>
+</section>
+
+<footer>
+  <div class="container">
+    <p>&copy; 2025 Teacher-Student Management System | Developed by Yash Jakhar</p>
+  </div>
+</footer>
+
+</body>
+</html>
